@@ -1,24 +1,22 @@
-# PocoSpringBootFreemarker #
-A starter app originally modeled on [this Spring tutorial](https://spring.io/guides/gs/handling-form-submission/) but converted to Freemarker templates.
+# POGen #
+A very simple approach for boilerplate code generation.
 
-## Build and run ##
+## WIP:
 
-If you are using Maven, you can run the application using:
+This project is in it's very early stages ! 
 
-    mvn spring-boot:run
 
-Or you can build the JAR file with...
+## Build and run 
 
-    mvn clean package
 
-... and run the JAR by typing:
+```bash
+mvn clean install spring-boot:run
+```
 
-    java -jar target/poco-spring-boot-freemarker-0.1.0.jar
+Now visit: http://localhost:7777/table
 
-Then, in your browser, go to:
 
-    http://localhost:8080/greeting
 
-## TODO ##
 
-* Convert the form templates into working Freemarker syntax.
+
+
