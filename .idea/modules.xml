@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/poco-spring-boot-freemarker.iml" filepath="$PROJECT_DIR$/poco-spring-boot-freemarker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com-virtualadrian-pogen.iml" filepath="$PROJECT_DIR$/com-virtualadrian-pogen.iml" />
     </modules>
   </component>
 </project>

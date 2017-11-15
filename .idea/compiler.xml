@@ -6,10 +6,12 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="com-virtualadrian-pogen" />
         <module name="poco-spring-boot-freemarker" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="com-virtualadrian-pogen" target="1.8" />
       <module name="poco-spring-boot-freemarker" target="1.8" />
     </bytecodeTargetLevel>
   </component>

@@ -1,4 +1,4 @@
-package poco;
+package com.virtualadrian.pogen;
 
 
 
